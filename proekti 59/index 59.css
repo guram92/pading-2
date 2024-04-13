@@ -1,0 +1,23 @@
+.b1 {
+    width:550px ;
+    height: 550px;
+    background-color:#FFFFFF ;
+    border:1px solid #B4B4B4 ;
+}
+.b2 {
+    padding-top: 40px;
+    padding-left: 100px;
+}
+.b3 {
+    padding-left: 100px;
+    color: #808080;
+}
+.b4 {
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.b6 {
+    color: #0000EE;
+    padding-top: 10px;
+    padding-left:100px ;
+}
